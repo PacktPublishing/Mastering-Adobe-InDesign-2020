@@ -1,0 +1,26 @@
+%!Adobe-FontList 1.20
+%Locale:0x809
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Impact
+FamilyName:Impact
+StyleName:Regular
+FullName:Impact
+MenuName:Impact
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\00 YEAR 2019\06 Packt_My book\Mastering ID CC 2020\ID exercise files\Chapter 12\Snippet_Start Folder\Document fonts\impact.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:206784
+FileModTime:1552970658
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Impact
+NameArray:0,Win,1,Impact
+%EndFont
+
